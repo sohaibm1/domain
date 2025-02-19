@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: green;
+}
+h2{
+    background-color: rgb(64, 94, 49);
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+
+}
+h3{
+    background-color: rgb(220, 221, 203);
+    padding: 50px;
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem
+}
